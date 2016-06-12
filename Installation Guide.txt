@@ -1,0 +1,16 @@
+﻿**************************************************************************************************************
+*  					Catch Monkey						          *
+*  					   Version 1.0						          *
+*  				       Copyright  ©  Thanh Huynh					          *
+**************************************************************************************************************
+
+This document is a guide step by step for installing Catch Monkey game.
+
+Software installation steps:
+1. Download and unzip a file CatchMonkey.zip on http://hoctructuyen.vanlanguni.edu.vn
+2. Access folder Catch Monkey, click "setup.exe" and click Next
+4. In step Destination Folder, you are can option folder install and Next
+5. Click "Install" and wait for seconds.
+6. Click "Finish" for finished install.
+
+***Important: If there is an error when running the software, please uninstall the software and reinstall but you must change folder install in step Destination Folder because Windows deny access to drive C.
